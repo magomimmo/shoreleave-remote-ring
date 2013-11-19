@@ -6,5 +6,5 @@
             :distribution :repo
             :comments "See the notice in README.mkd or details in LICENSE_epl.html"}
   :dependencies [[org.clojure/clojure "1.5.1"]
-                 [org.clojure/tools.reader "0.7.7"]])
+                 [org.clojure/tools.reader "0.7.10"]])
 
